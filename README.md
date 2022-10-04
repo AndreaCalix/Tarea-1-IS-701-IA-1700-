@@ -17,7 +17,7 @@ Para la realizacion de esta tarea se tomo data de un cuadro de calificaciones di
 - Estudiantes con calificaciones menores a 65
 
 ## Recursos
-- [Evidencia](Evidencia) esta carpeta contiene imagenes del proceso de realizacion de la tarea
+- [Demostraciones](Demostraciones) esta carpeta contiene imagenes del proceso de realizacion de la tarea
 - [Data](Data) esta carpeta contiene los archivoc .json y csv 
 - [tarea.ipynb](tarea.ipynb) ejecutable de la tarea
 
